@@ -10,7 +10,7 @@ This is the **Challenge 05** of **Bootcamp GoStack's** course from **Rocketseat 
 
 ## 💻Used Technologies
 
-The challenge has been developed using the folloein technologies:
+The challenge has been developed using the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
